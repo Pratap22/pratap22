@@ -19,7 +19,6 @@ Pratap's personal website running on Gatsby, React, and Node.js.
 
 [![HitCount](http://hits.dwyl.com/pratap22/pratap22.svg)](http://hits.dwyl.com/pratap22/pratap22) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap22&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
