@@ -1,12 +1,16 @@
 ### Hola, I'm Pratap Sharma! 👋
 
 - 🔭 I’m currently working on my [Blog](https://pratapsharma.in).
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript or any tech related stuff.
-- 📫 How to reach me: <a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
+
+### How to reach me?
+
+<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>
+
 
 #### [Pratap Sharma](https://www.pratapsharma.in)
 Pratap's personal website running on Gatsby, React, and Node.js.
