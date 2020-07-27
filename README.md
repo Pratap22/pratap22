@@ -9,7 +9,7 @@
 
 ### How to reach me?
 
-<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>
+<a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>  
 
 
 #### [Pratap Sharma](https://www.pratapsharma.in)
