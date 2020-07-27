@@ -21,6 +21,8 @@ Pratap's personal website running on Gatsby, React, and Node.js.
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<img src = "https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap22&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to reach me?
 
 <a href="https://twitter.com/pratap2210" rel="nofollow"> <img align="left" alt="Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"></a><a href="https://www.linkedin.com/in/prataps22" rel="nofollow"> <img align="left" alt="Pratap Sharma | Linkedin" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" style="max-width:100%;"></a>  
