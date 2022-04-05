@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
 
 
-#### [Pratap Sharma](https://www.pratapsharma.in)
+#### [Pratap Sharma](https://www.pratapsharma.com.np)
 Pratap's personal website running on Gatsby, React, and Node.js.
 
 <a href="https://www.patreon.com/pratap22"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/pratap22&style=for-the-badge" alt="Patreon donate button" /> </a>
