@@ -1,6 +1,6 @@
 ### Hola, I'm Pratap Sharma! 👋
 
-- 🔭 I’m currently working on my [Blog](https://pratapsharma.in).
+- 🔭 I’m currently working on my [Blog](https://pratapsharma.com.np).
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript, Python or any tech related stuff.
