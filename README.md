@@ -1,20 +1,15 @@
 ### Hola, I'm Pratap Sharma! 👋
 
-- 🔭 I’m currently working on my [Blog](https://pratapsharma.com.np).
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on my [Blog](https://pratapsharma.io).
+- 🌱 I’m currently learning Kubernetes.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript, Python or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
 
 
-#### [Pratap Sharma](https://www.pratapsharma.com.np)
+#### [Pratap Sharma](https://www.pratapsharma.io)
 Pratap's personal website running on Gatsby, React, and Node.js.
-
-<a href="https://www.patreon.com/pratap22"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/pratap22&style=for-the-badge" alt="Patreon donate button" /> </a>
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pratap22)
-
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap22&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
