@@ -1,7 +1,7 @@
 ### Hola, I'm Pratap Sharma! 👋
 
 - 🔭 I’m currently working on my [Blog](https://pratapsharma.io).
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning Kubernetes and Shell Scripting.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript, Python or any tech related stuff.
 - 😄 Pronouns: He/His
