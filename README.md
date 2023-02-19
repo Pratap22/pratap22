@@ -1,6 +1,6 @@
 ### Hola, I'm Pratap Sharma! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap22&label=Profile%20views&color=0e75b6&style=flat" alt="aj3sh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap22&label=Profile%20views&color=0e75b6&style=flat" alt="pratap22" /> </p>
 
 - 🔭 I’m currently working on my [Blog](https://pratapsharma.io).
 - 🌱 I’m currently learning Kubernetes and Shell Scripting.
