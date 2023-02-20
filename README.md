@@ -10,13 +10,13 @@
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
 
 
+## Personal Site
 #### [Pratap Sharma](https://www.pratapsharma.io)
 Pratap's personal website running on Gatsby, React, and Node.js.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e3c7d81e-28ca-4d9f-a0ae-955d4d67f885/deploy-status)](https://app.netlify.com/sites/prataps/deploys)
 
 ## Github Stats
-
 
 <img src = "https://github-readme-stats.vercel.app/api?username=pratap22&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratap22&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
