@@ -26,6 +26,11 @@ Pratap's personal website running on Gatsby, React, and Node.js.
 
 
 ## Recent Blogs
-1. <a href="https://www.pratapsharma.io/architecture-of-food-delivery-app" target="_blank">Architecture and Design Principle for Online Food Delivery System</a>
-2. <a href="https://www.pratapsharma.io/why-is-system-design-important" target="_blank">Building Real-time Applications with Redis Pub/Sub</a>
-3. <a href="https://www.pratapsharma.io/script-to-check-broken-links" target="_blank">Build A Web Crawler To Find Any Broken Links on Your Site with Python & BeautifulSoup</a>
+1. <a href="https://www.pratapsharma.io/react-use-hook" target="_blank">use(): the React new experimental hook 🚀</a>
+2. <a href="https://www.pratapsharma.io/ssh-not-working-in-macos-ventura-fix" target="_blank">SSH Not Working In MacOS Ventura: How To Fix</a>
+3. <a href="https://www.pratapsharma.io/eventual-vs-strong-consistency" target="_blank">Eventual Consistency vs Strong Consistency</a>
+4. <a href="https://www.pratapsharma.io/proxy-vs-reverse-proxy" target="_blank">The Differences Between Forward and Reverse Proxies</a>
+5. <a href="https://www.pratapsharma.io/why-is-system-design-important" target="_blank">Why is System Design Important?</a>
+6. <a href="https://www.pratapsharma.io/architecture-of-food-delivery-app" target="_blank">Architecture and Design Principle for Online Food Delivery System</a>
+7. <a href="https://www.pratapsharma.io/why-is-system-design-important" target="_blank">Building Real-time Applications with Redis Pub/Sub</a>
+8. <a href="https://www.pratapsharma.io/script-to-check-broken-links" target="_blank">Build A Web Crawler To Find Any Broken Links on Your Site with Python & BeautifulSoup</a>
