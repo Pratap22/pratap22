@@ -2,12 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap22&label=Profile%20views&color=0e75b6&style=flat" alt="pratap22" /> </p>
 
+- 🔭 Do Check My YouTube Channel <a href='https://www.youtube.com/channel/UCcz5iTAfWQsGTIn5dJkTRWg'>Learn With Pratap</a>
 - 🔭 I’m currently working on my [Blog](https://pratapsharma.io).
-- 🌱 I’m currently learning Kubernetes and Shell Scripting.
+- 📫 How to reach me: iam@pratapsharma.io
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript, Python or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours writing code everyday.
+
+## Courses
+<a target="_blank" href='https://www.udemy.com/course/building-rest-apis-with-flask-and-python'>Building REST APIs with Flask and Python in 2023</a>
 
 
 ## Personal Site
